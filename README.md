@@ -17,7 +17,7 @@ You should already have these installed on your Mac stations.
 - Using the web inspector
 
 ## How Websites Work
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
+<a href="presentations/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
 
 **In-Class Demos**
 - How the Internet passes websites around
@@ -44,12 +44,12 @@ You should already have these installed on your Mac stations.
 
 **Exercises**
 <ul>
-  <li>Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.</li>
-  <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
+  <li>Copy and paste <a href="exercises/html-exercise-1.html">this code</a> and follow the instructions inside to format the page.</li>
+  <li>Can you fix this <a href="exercises/html-broken-code-exercise.html">broken code</a>? </li>
 </ul>
 
 ## Basic CSS
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
+<a href="presentations/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
 
 **In-Class Demos**
 <ul>
@@ -95,9 +95,8 @@ You should already have these installed on your Mac stations.
   <li>How CSS deals with conflict</li>
 </ul>
 
-### Homework
+### Extra Time?
 
 <ul>
-  <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
-  <li>Using HTML and CSS, lay out a one-page web portfolio for yourself. Don't worry too much about the final design, though you are free to get started designing. Just make sure to get all of your information on the page and formatted using HTML.</li>
+  <li>Open <a href="exercises/mars-exercise">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="exercises/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
 </ul>
