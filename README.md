@@ -1,5 +1,5 @@
 # NICAR 2020 — Introduction to Web Development
-Originally developed by Sisi Wei, Lena Groeger and many others, for the Data Institute. Used under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).
+Originally developed by Sisi Wei, Lena Groeger and many others, for the [Data Institute](https://projects.propublica.org/graphics/ida-propublica-data-institute). Used under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).
 
 This class has been adapted to not need Internet access and for a 3-hour class period.
 
@@ -95,8 +95,12 @@ You should already have these installed on your Mac stations.
   <li>How CSS deals with conflict</li>
 </ul>
 
-### Extra Time?
+## Extra Time?
 
 <ul>
   <li>Open <a href="exercises/mars-exercise">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="exercises/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file.</li>
 </ul>
+
+## Post-Conference Review
+
+Found this workshop helpful but wish you had a transcript of everything I said out loud? Here's the next best thing: [video and audio recordings of these lessons](https://www.propublica.org/nerds/announcing-free-videos-and-training-materials-from-the-propublica-data-institute).
