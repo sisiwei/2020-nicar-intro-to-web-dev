@@ -6,18 +6,11 @@ This class has been adapted to not need Internet access and for a 3-hour class p
 ## Installed Software
 You should already have these installed on your Mac stations.
 
-**ACCOUNTS**
-<ul>
-  <li><a href="https://github.com/join?source=header-home">Github.com</a><br>(Make sure to confirm your e-mail address)</li>
-  <li><a href="https://accounts.google.com/SignUp?service=wise&amp;continue=https%3A%2F%2Fdrive.google.com%2F%23&amp;ltmpl=drive">Google.com</a></li>
-</ul>
-
-**SOFTWARE**
 - <a href="https://www.google.com/chrome/browser/desktop/">Google Chrome</a>
 - Sublime Text (<a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg">Mac</a>, <a href="https://download.sublimetext.com/Sublime%20Text%20Build%203114%20x64%20Setup.exe">Windows</a>)
 
 ## Intro to Code
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
+<a href="presentations/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
 **In-Class Demos**
 - What coding languages have you heard of?
