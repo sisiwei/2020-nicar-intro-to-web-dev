@@ -1,7 +1,7 @@
 # NICAR 2020 — Introduction to Web Development
 Originally developed by Sisi Wei, Lena Groeger and many others, for the [Data Institute](https://projects.propublica.org/graphics/ida-propublica-data-institute). Used under the [Creative Commons license](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).
 
-This class has been adapted to not need Internet access and for a 3-hour class period.
+This class has been adapted to not need Internet access and for a 3-hour class period. Pre-apologies for the couple of references to the Data Institute. I hand drew these slides, so changing those became a bit hard 😅
 
 ## Installed Software
 You should already have these installed on your Mac stations.
